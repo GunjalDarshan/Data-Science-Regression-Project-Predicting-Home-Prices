@@ -3,6 +3,7 @@ Using Pandas, Numpy, matplotlib, GridSearchCV Designed a model which predicts th
 
  Introduction
 This project aims to build a regression model to predict home prices based on various features. The dataset used for this project is a real estate dataset that contains information about different properties such as the location, size, number of bedrooms, and price.
+This is a data science regression project that aims to predict home prices based on various features. The project utilizes machine learning techniques to build a regression model that can accurately estimate the price of a house given its attributes.
 
 ### Project Steps
 
@@ -37,8 +38,6 @@ This regression project demonstrates the process of building a model to predict 
 
 
 
-# Data Science Regression Project: Predicting Home Prices
-This is a data science regression project that aims to predict home prices based on various features. The project utilizes machine learning techniques to build a regression model that can accurately estimate the price of a house given its attributes.
 ## Project Setup
 To get started, we need to import the necessary libraries and load the dataset. The code snippet below demonstrates this process:
 
